@@ -1,0 +1,25 @@
+lambdas/libs/compute-providers/aws/ec2/src/runners.test.ts
+  s_4340a95068ad8d::t_54fb0420ec47f1 585-679,1576-1599
+  s_4340a95068ad8d::t_fbe4a8919b3e33 1253,1262,1306,1315,1344
+  s_4340a95068ad8d::t_087f14de0ef8cf 1600
+lambdas/libs/compute-providers/aws/ec2/src/launch-template.ts
+  s_4340a95068ad8d::t_8acfd6fca186de 1,27-50
+lambdas/libs/compute-providers/aws/ec2/src/runners.ts
+  s_4340a95068ad8d::t_8acfd6fca186de 25-26,590-629,636-638,683,687,691,707-709,734,738
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a85436772ff2b6f1575aed00cae94397320180d3",
+  "prompts": {},
+  "sessions": {
+    "s_4340a95068ad8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "702a43d3-afaa-4cb5-b63f-338959c100b0",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "seeeun-cho <seeeun.cho@deliveryhero.com>"
+    }
+  }
+}
