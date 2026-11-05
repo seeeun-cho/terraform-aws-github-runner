@@ -1,0 +1,35 @@
+modules/multi-runner/variables.tf
+  s_4340a95068ad8d::t_5c4beec84f1298 720
+modules/runners/README.md
+  s_4340a95068ad8d::t_5c4beec84f1298 217
+lambdas/libs/compute-providers/aws/ec2/src/launch-template.ts
+  s_4340a95068ad8d::t_5c4beec84f1298 1,27-50
+README.md
+  s_4340a95068ad8d::t_5c4beec84f1298 202
+modules/runners/variables.tf
+  s_4340a95068ad8d::t_5c4beec84f1298 581
+lambdas/libs/compute-providers/aws/ec2/src/runners.ts
+  s_4340a95068ad8d::t_5c4beec84f1298 25-26,590-616,622,636-638,683,687,691,707-709,734,738
+lambdas/libs/compute-providers/aws/ec2/src/runners.test.ts
+  s_4340a95068ad8d::t_5c4beec84f1298 585-611,613-616,618-624,627-667,669-677,1253,1262,1306,1315,1344,1576-1590,1593-1598
+modules/multi-runner/README.md
+  s_4340a95068ad8d::t_5c4beec84f1298 192
+variables.tf
+  s_4340a95068ad8d::t_5c4beec84f1298 731
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "da6de9144f398c427e026caf2d2907151b4d34c3",
+  "prompts": {},
+  "sessions": {
+    "s_4340a95068ad8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "702a43d3-afaa-4cb5-b63f-338959c100b0",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "seeeun-cho <seeeun.cho@deliveryhero.com>"
+    }
+  }
+}
