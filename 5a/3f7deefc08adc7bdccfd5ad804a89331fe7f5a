@@ -1,0 +1,49 @@
+lambdas/libs/compute-providers/aws/ec2/src/runners.test.ts
+  s_3163b268c52e7e::t_20b3a1ad077b44 1519
+  s_3163b268c52e7e::t_9b0c2b216c823a 585-609,1333,1357,1371,1376,1510,1512-1518
+  s_3163b268c52e7e::t_5bdbd3e3a1160a 1511
+modules/runners/pool.tf
+  s_3163b268c52e7e::t_6e671ad628cc20 56
+modules/runners/pool/main.tf
+  s_3163b268c52e7e::t_6e671ad628cc20 53
+lambdas/libs/compute-providers/aws/ec2/src/runners.ts
+  s_3163b268c52e7e::t_6e671ad628cc20 592-604
+  s_3163b268c52e7e::t_7272fc1cc0f08b 589-591,605-606,613,682
+modules/multi-runner/README.md
+  s_3163b268c52e7e::t_732c52d60a069b 192
+modules/runners/scale-up.tf
+  s_3163b268c52e7e::t_6e671ad628cc20 64
+README.md
+  s_3163b268c52e7e::t_d241bb69b47318 202
+modules/runners/pool/variables.tf
+  s_3163b268c52e7e::t_6e671ad628cc20 50
+lambdas/libs/compute-providers/aws/ec2/src/control-plane/runner-creation.ts
+  s_3163b268c52e7e::t_5bdbd3e3a1160a 59-61
+  s_3163b268c52e7e::t_7272fc1cc0f08b 31
+lambdas/libs/compute-providers/aws/ec2/src/runners.d.ts
+  s_3163b268c52e7e::t_7272fc1cc0f08b 45
+modules/runners/README.md
+  s_3163b268c52e7e::t_685b33f1ade162 217
+modules/multi-runner/variables.tf
+  s_3163b268c52e7e::t_70b834e8277178 720
+modules/runners/variables.tf
+  s_3163b268c52e7e::t_ca063b55842149 581
+variables.tf
+  s_3163b268c52e7e::t_0de9cf1edc1f5e 731
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "5a3f7deefc08adc7bdccfd5ad804a89331fe7f5a",
+  "prompts": {},
+  "sessions": {
+    "s_3163b268c52e7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "66d2977e-050c-4b00-83d2-afc582c4686b",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "seeeun-cho <seeeun.cho@deliveryhero.com>"
+    }
+  }
+}
